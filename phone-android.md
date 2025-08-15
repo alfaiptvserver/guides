@@ -1,57 +1,25 @@
-## 🎬 Adım 3: Kanal Listesi
+# Android Telefon IPTV Kurulum Rehberi
 
-Giriş yaptıktan sonra şu kategorilere erişebilirsiniz:
+## 🚀 Hızlı Başlangıç
 
-1. **Canlı TV** - Tüm TV kanalları
-2. **Filmler** - Son çıkan filmler
-3. **Diziler** - Popüler diziler
-4. **Catch-up** - Geçmiş yayınlar
+IPTV hizmetimizi Android telefonunuzda kullanmak için aşağıdaki adımları takip edin.
 
-### Favori Ekleme
+## 📱 Adım 1: Uygulama İndirme
 
-Bir kanalı favorilere eklemek için:
-- Kanal üzerinde uzun basın
-- ⭐ Yıldız ikonuna tıklayın
+**IPTV Smarters Pro** uygulamasını indirin:
+- [Google Play Store'dan İndir](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox)
+- Alternatif: [APK olarak indir](https://www.iptvsmarters.com/download)
 
-## 🔧 Sorun Giderme
+> **Not:** Uygulama ücretsizdir ancak Pro versiyonu ek özellikler sunar.
 
-### Bağlantı Hatası
-Eğer **"Sunucuya bağlanılamıyor"** hatası alıyorsanız:
+## ⚙️ Adım 2: Kurulum Ayarları
 
-1. İnternet bağlantınızı kontrol edin
-2. VPN kullanıyorsanız kapatın
-3. Bilgileri doğru girdiğinizden emin olun
+Uygulamayı açtıktan sonra **Xtream Codes API** seçeneğini seçin.
 
-### Video Oynatma Sorunu
-- Ayarlar → Player → **MX Player** seçin
-- Alternatif: **VLC Player** kullanın
+### Bağlantı Bilgileri:
 
-## 📞 Destek
-
-Sorun yaşıyorsanız:
-- [Destek sayfamızı ziyaret edin](/dashboard/support)
-- [Canlı destek ile görüşün](/dashboard/chat)
-- E-posta: destek@alfaiptv.com
-
-## 🎯 İpuçları
-
-**Pro İpucu:** EPG (TV Rehberi) için:
-1. Ayarlar → EPG → Zaman dilimi: **GMT+3**
-2. EPG Kayması: **0**
-
----
-
-### Diğer Cihazlar
-
-Farklı cihazlar için kurulum rehberlerine göz atın:
-- [iPhone Kurulumu](/dashboard/guide?device=phone&type=ios)
-- [Smart TV Kurulumu](/dashboard/guide?device=tv)
-- [Bilgisayar Kurulumu](/dashboard/guide?device=pc)
-
----
-
-*Son güncelleme: Ocak 2025*
-
-**Önemli:** Hesabınızın güvenliği için bilgilerinizi kimseyle paylaşmayın!
-
-[← Rehbere Geri Dön](/dashboard/guide)
+| Alan | Değer |
+|------|-------|
+| **Sunucu URL** | `http://{server_url}:8080` |
+| **Kullanıcı Adı** | `{username}` |
+| **Şifre** | `{password}` |
