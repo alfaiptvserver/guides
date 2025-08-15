@@ -1,71 +1,57 @@
-# Markdown syntax guide
+## 🎬 Adım 3: Kanal Listesi
 
-## Headers
+Giriş yaptıktan sonra şu kategorilere erişebilirsiniz:
 
-{username}
+1. **Canlı TV** - Tüm TV kanalları
+2. **Filmler** - Son çıkan filmler
+3. **Diziler** - Popüler diziler
+4. **Catch-up** - Geçmiş yayınlar
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+### Favori Ekleme
 
-## Emphasis
+Bir kanalı favorilere eklemek için:
+- Kanal üzerinde uzun basın
+- ⭐ Yıldız ikonuna tıklayın
 
-*This text will be italic*  
-_This will also be italic_
+## 🔧 Sorun Giderme
 
-**This text will be bold**  
-__This will also be bold__
+### Bağlantı Hatası
+Eğer **"Sunucuya bağlanılamıyor"** hatası alıyorsanız:
 
-_You **can** combine them_
+1. İnternet bağlantınızı kontrol edin
+2. VPN kullanıyorsanız kapatın
+3. Bilgileri doğru girdiğinizden emin olun
 
-## Lists
+### Video Oynatma Sorunu
+- Ayarlar → Player → **MX Player** seçin
+- Alternatif: **VLC Player** kullanın
 
-### Unordered
+## 📞 Destek
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-    * Item 3a
-    * Item 3b
+Sorun yaşıyorsanız:
+- [Destek sayfamızı ziyaret edin](/dashboard/support)
+- [Canlı destek ile görüşün](/dashboard/chat)
+- E-posta: destek@alfaiptv.com
 
-### Ordered
+## 🎯 İpuçları
 
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
+**Pro İpucu:** EPG (TV Rehberi) için:
+1. Ayarlar → EPG → Zaman dilimi: **GMT+3**
+2. EPG Kayması: **0**
 
-## Images
+---
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+### Diğer Cihazlar
 
-## Links
+Farklı cihazlar için kurulum rehberlerine göz atın:
+- [iPhone Kurulumu](/dashboard/guide?device=phone&type=ios)
+- [Smart TV Kurulumu](/dashboard/guide?device=tv)
+- [Bilgisayar Kurulumu](/dashboard/guide?device=pc)
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+---
 
-## Blockquotes
+*Son güncelleme: Ocak 2025*
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+**Önemli:** Hesabınızın güvenliği için bilgilerinizi kimseyle paylaşmayın!
 
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+[← Rehbere Geri Dön](/dashboard/guide)
